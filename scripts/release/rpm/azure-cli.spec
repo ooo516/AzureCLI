@@ -13,7 +13,7 @@
 %endif
 
 %define name           azure-cli
-%define release        1%{?dist}
+%define release        3%{?dist}
 %define version        %{getenv:CLI_VERSION}
 %define repo_path      %{getenv:REPO_PATH}
 %define cli_lib_dir    %{_libdir}/az
