@@ -80,7 +80,7 @@ mock==2.0.0
 msrest==0.5.5
 msrestazure==0.4.34
 oauthlib==2.1.0
-paramiko==2.4.1
+paramiko==2.10.1
 pbr==4.2.0
 portalocker==1.2.1
 prompt-toolkit==1.0.15
